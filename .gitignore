@@ -5,3 +5,6 @@ MimicBrush
 
 **/__pycache__/
 depthanything/torchhub/facebookresearch_dinov2_main/dinov2/layers/__pycache__
+
+.vscode/
+results
